@@ -1,0 +1,19 @@
+{
+  "name": "wc_automation",
+  "version": "1.0.0",
+  "description": "flights booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Sneha Sirikonda",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "@badeball/cypress-cucumber-preprocessor": "^17.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "esbuild": "^0.17.18",
+    "dayjs": "^1.9.8"
+  }
+}
