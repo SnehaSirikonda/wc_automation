@@ -18,7 +18,7 @@ Cypress is a desktop application that is installed on your computer.
 
 #### Installing and Setting up the Automation framework
 
-1. Clone the project from github: `git clone `
+1. Clone the project from github: `git clone https://github.com/SnehaSirikonda/wc_automation.git`
 2. `cd /your/project/path`
 3. Install dependencies via npm: `npm install`
 4. Opening Cypress: `npm run cypress:open`
